@@ -1,0 +1,11 @@
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.AssemblyInfoInputs.cache
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.AssemblyInfo.cs
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.csproj.CoreCompileInputs.cache
+C:\Users\MA-Develop\source\repos\LuaWrapper\bin\x64\Debug\net5.0\LuaWrapper.deps.json
+C:\Users\MA-Develop\source\repos\LuaWrapper\bin\x64\Debug\net5.0\LuaWrapper.dll
+C:\Users\MA-Develop\source\repos\LuaWrapper\bin\x64\Debug\net5.0\ref\LuaWrapper.dll
+C:\Users\MA-Develop\source\repos\LuaWrapper\bin\x64\Debug\net5.0\LuaWrapper.pdb
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.dll
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\ref\LuaWrapper.dll
+C:\Users\MA-Develop\source\repos\LuaWrapper\obj\x64\Debug\net5.0\LuaWrapper.pdb
