@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LuaWrapper">
+      <HintPath>..\LuaWrapper\bin\x64\Release\net5.0\LuaWrapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
